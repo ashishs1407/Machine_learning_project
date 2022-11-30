@@ -1,0 +1,5 @@
+## 3 things ffrom heroku
+
+heroku_email = shimpi.ashish.me2@gmail.com
+heroku_key = 253d5efa-b0ed-4b3a-9254-463d4a81d3f1
+heroku_app_name = ml-app-regression-1
